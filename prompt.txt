@@ -2,7 +2,7 @@ i want to create a snake game using python. what steps would i need to do that?
 
 
 ChatGPT ha detto:
-Creating a Snake game in Python is a great beginner-to-intermediate project to understand game logic, graphics handling, and keyboard input. Below are the core steps to build the classic Snake game, typically using the pygame library.
+Creating a Snake game in Python is a great beginner-to-intermediate project to understand game logic, nggraphics handling, and keyboard input. Below are the core steps to build the classic Snake game, typically using the pygame library.
 
 ✅ Step-by-Step Plan to Build Snake in Python
 1. Install Pygame
